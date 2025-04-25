@@ -1,4 +1,4 @@
 import datetime
 
-print("Welcome to Git Assignment")
+print("My name is assi-gnment")
 print("Today's date:", datetime.datetime.now())
